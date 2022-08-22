@@ -172,7 +172,7 @@ $(document).ready(function(){
     btnTop();
 
     new Typed('.typed', {
-        strings: ["WELCOME TO MY PORTFOLIO :)"],
+        strings: ["♣ WELCOME TO MY PORTFOLIO ♬"],
         typeSpeed: 70,
         // backSpeed: 80,
         // loop: true,
